@@ -18,7 +18,3 @@ https://user-images.githubusercontent.com/49281896/221805642-885d8506-7041-4524-
 
 #### Delete Note:
 ![Delete Note](https://github.com/NicoleDezoraive/Notes-App/blob/master/src/images/delete.JPG)
-
-#### Post View Page:
-![Post View Page](https://github.com/NicoleDezoraive/Blog-Website/blob/master/public/images/postViewPage.JPG)
-
